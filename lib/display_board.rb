@@ -17,7 +17,3 @@ display_board(board[4] = "X")
 
 display_board(board[0] = "O")
 
-display_board(board[4] = "X", board[0] = "O")
-
-display_board(board[0,1,2] = "X")
-
