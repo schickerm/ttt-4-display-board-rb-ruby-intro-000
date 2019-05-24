@@ -97,7 +97,7 @@ end
 
 display_board(board)
 
-board = ["  ", "X", "O", "X", "O", "X", "O", "  ", "  "]
+board = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
 
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
